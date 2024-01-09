@@ -451,6 +451,9 @@ button{
     padding-bottom: 45px;
 }
 
+#contactUs{
+    display: flex;
+}
 
 #hrLenght{
     width: 975px;
