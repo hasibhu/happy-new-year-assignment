@@ -252,8 +252,6 @@ button{
 
 #holidays{
     color: #F00;
-    
-
 }
 
 .container{
@@ -295,7 +293,6 @@ button{
 
 #best-gifts{
     color: #F00;
-
     font-family: Inter;
     font-size: 16px;
     font-style: normal;
@@ -318,7 +315,7 @@ button{
     margin-bottom: 32px;
 }
 .container-porfolio{
-    padding-left: 95px;
+    padding-left: 110px;
     margin-bottom: 120px;
 }
 .container-porfolio  .portfolio-div1{
@@ -394,7 +391,7 @@ button{
 
 
 #hrLenght{
-    width: 1020px;
+    width: 975px;
     margin: auto;
     color: #F00;
     border: none;
