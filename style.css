@@ -14,8 +14,8 @@
 /* banner related styles */
 
 
-.hero{
-    width: 110opx;
+.banner{
+    width: 1200px;
     height: 600px;
     background-image: url("./images/bannerImage.png");
     background-size: cover;
