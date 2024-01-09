@@ -325,6 +325,9 @@ button{
     margin-bottom: 120px;
 }
 
+#portfolioText{
+    padding-left: 30px;
+}
 #best-gifts{
     color: #F00;
     font-family: Inter;
