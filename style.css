@@ -321,7 +321,7 @@ button{
 /* Portfolio Related styles */
 
 .container-porfolio{
-    padding-left: 100px;
+    padding-left: 70px;
     margin-bottom: 120px;
 }
 
@@ -365,8 +365,8 @@ button{
 /* Subscribe related style */
 
 .subscribe{
-    width: 1000px;
-    height: 216px;
+    width: 1100px;
+    height: 416px;
     text-align: center;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
