@@ -166,14 +166,14 @@
     padding-right: 200px;
     width: auto;
     height: 600px;
-    background-image: url("/images/girlWithShoppingBag.png");
+    background-image: url("./images/girlWithShoppingBag.png");
     background-repeat: no-repeat;
     background-position-x: right;
 }
 
 .holiday-div2{
     display: flex;
-    background-image: url("/images/redStrip.png");
+    background-image: url("./images/redStrip.png");
     background-size: 1100px 220px;
     background-repeat: no-repeat;
     background-position: right 20px bottom 100px;
