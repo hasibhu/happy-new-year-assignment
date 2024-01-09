@@ -466,7 +466,11 @@ button{
 #id{
     padding-top: 30px;
 }
+/* Extra Css */
 
+.hoverWeb:hover{
+    color: purple;
+}
 .hoverSubscriber:hover{
     color: purple;
 }
