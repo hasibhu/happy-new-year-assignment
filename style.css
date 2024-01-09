@@ -70,6 +70,7 @@
 /* 60% off related part styles */
 .off{
     padding-top: 50px;
+    padding-bottom: 80px;
 }
 .color{
     color: red;
@@ -148,7 +149,7 @@ button{
 
 /* Schedule related styles */
 .time{
-    padding-top: 90px;
+    padding-top: 50px;
     text-align: center;
     text-align: center;
     font-family: Inter;
@@ -177,8 +178,6 @@ button{
 
 
 /* styles related to inner-cicle image */
-
-
 .circle{
 
     margin-top: 100px;
