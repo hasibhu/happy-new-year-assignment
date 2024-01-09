@@ -142,7 +142,7 @@ button{
     background-color: rgb(15, 14, 14);
     
 }
-.button:hover{
+.buttonHover:hover{
     background-color: purple;
 }
 
@@ -150,6 +150,12 @@ button{
 .time{
     padding-top: 90px;
     text-align: center;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px;
 }
 
 .redcolor{
@@ -165,6 +171,11 @@ button{
     
 }
 
+.btn{
+    background: #F00;
+    border-radius: 8px;
+}
+
 
 /* styles related to inner-cicle image */
 
@@ -175,9 +186,6 @@ button{
     margin-bottom: 120px;
     display:flex ;
 }
-
-
-/* circle related part stye */
 
 #new-best-offer{
     color: #FF0000;
