@@ -17,13 +17,13 @@
 .hero{
     width: 110opx;
     height: 600px;
-    background-image: url("bannerImage.png");
+    background-image: url("./images/bannerImage.png");
     background-size: cover;
     background-position: center;
     position: relative;
 }
 
- #me {
+ #newYearText {
     font-size: 5rem;
     color: rgb(249, 246, 246);
     /* text-align: center; */
@@ -36,7 +36,7 @@
 
 }
 
-#me {
+#newYearText{
     display: flex;
     flex-direction: column;
     height: 100%;
