@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
 .common{
     max-width: 1200px;
     margin: 0 auto;
@@ -69,12 +69,41 @@
 
 /* 60% off related part styles */
 .off{
-    padding-top: 50px;
+    padding-top: 80px;
     padding-bottom: 80px;
 }
-.color{
+
+#off65{
+    font-family: Hind;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+
+
+#allCategories{
+    color: #070211;
+    text-align: center;
+    font-family: Hind;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    
+    line-height: 60px;
+}
+
+
+
+
+.color, .colors{
     color: red;
     text-align: center;
+    font-family: Hind;
+}
+
+.colors{
+    color: #070211;
 }
 
 .off .offPhoto{
