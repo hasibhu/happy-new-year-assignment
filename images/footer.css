@@ -1,0 +1,285 @@
+
+
+.common{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+
+/*  */
+
+*{
+    margin: 2px;
+}
+
+.hero .text{
+    background-image: url("bannerImage.png") ;
+    background-size: cover;
+    background-position: bottom center;
+    height: 600px;
+    border-radius: 16px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    /* line-height: 95px; */
+    padding-top: 120px;
+    line-height: 10px;
+    border-radius: 16px;
+    max-width: auto;
+    
+    
+}
+
+
+.off{
+    padding-top: 50px;
+}
+.color{
+    color: red;
+    text-align: center;
+}
+
+.off .offPhoto{
+    text-align: center;
+    
+}
+
+/* welcome party */
+
+.offPhoto2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("vectorrr.png");
+    background-repeat: no-repeat;
+}
+.offPhoto2 h2{
+    padding-top: 50px;
+    text-align: center;
+    color: #e8dcdc;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+    width: 640px;
+}
+
+.time{
+    padding-top: 90px;
+    text-align: center;
+}
+
+.redcolor{
+    color: red;
+}
+
+ 
+.timeSection{
+    margin-top: 100px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    height: 200px;
+    width: 1100px;
+    
+}
+
+
+/* styles related to inner-cicle image */
+
+
+.circle{
+
+    margin-top: 100px;
+    margin-bottom: 120px;
+    display:flex ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* circle related part stye */
+
+#new-best-offer{
+    color: #FF0000;
+}
+.circle{
+    padding-top: 120px;
+    width: 1120px;
+    max-width: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.circle-div{
+    
+    border-radius: 50%;
+    height: 230px;
+    width: 230px;
+    border: 10px solid red;
+    flex-shrink: 0;
+
+}
+
+
+.circle-div1{
+    width: 319px;
+}
+
+.circle-div3{
+    width: 276px;
+}
+
+#color2024{
+    color: #FF0000;
+}
+
+#circle-image{
+    padding-left: 13px;
+    padding-top: 13px;
+}
+
+
+/* Holiday sale related styles */
+.holiday-div1{
+    justify-content: center;
+   text-align: center;
+    width: 660px;
+    margin-left: 290px;
+    max-width: 1350px;
+
+
+}
+
+.container{
+    width: 90%;
+    max-width: 500px;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    padding-top: 78px;
+    padding-right: 200px;
+    width: auto;
+    height: 600px;
+    background-image: url("girlWithShoppingBag.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.holiday-div2{
+    display: flex;
+    background-image: url("redStrip.png");
+    background-size: 1100px 220px;
+    background-repeat: no-repeat;
+    background-position: right 20px bottom 100px;
+    max-width: 1300px;
+}
+
+.right{
+    margin-left: 100px;
+}
+    
+
+/* Portfolio Related styles */
+.container-porfolio{
+    margin-left: 90px;
+    margin-bottom: 120px;
+}
+.container-porfolio  .portfolio-div1{
+    width: 560px;
+}
+
+.product-images{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+}
+
+
+/* Subscribe related style */
+
+.subscribe{
+    
+    width: 1320px;
+    height: 416px;
+    
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+#email-subscribe{
+    width: 350px;
+    height: 42px;
+    border-style: none;
+    border-radius: 50px;
+    background: #FFF;
+}
+
+
+.btn-subscribe{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 140px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border-style: none;
+}
+
+
+/* Footer related styles */
+.footer{
+    background: #070211;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.adress, .copyRight{
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.logo{
+    text-align: center;
+}
+
+

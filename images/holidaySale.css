@@ -1,0 +1,41 @@
+.holiday-div1{
+    justify-content: center;
+   text-align: center;
+    width: 660px;
+    margin-left: 290px;
+    max-width: 1350px;
+
+
+}
+
+.container{
+    width: 90%;
+    max-width: 500px;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    padding-top: 78px;
+    padding-right: 200px;
+    width: auto;
+    height: 600px;
+    background-image: url("girlWithShoppingBag.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.holiday-div2{
+    display: flex;
+    background-image: url("redStrip.png");
+    background-size: 1100px 220px;
+    background-repeat: no-repeat;
+    background-position: right 20px bottom 100px;
+    max-width: 1300px;
+}
+
+.right{
+    margin-left: 100px;}
+    
